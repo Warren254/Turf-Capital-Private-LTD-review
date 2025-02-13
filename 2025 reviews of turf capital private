@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
+<meta name="google-site-verification" content="jxJeufSpzxW4Js5NGwUVeXIj_q0i67FUMUnYQIPWko0" />
+
 <head>
 
     <meta charset="UTF-8">
@@ -19,7 +21,7 @@
         .contact-links a { display: flex; align-items: center; gap: 8px; color: white; background: green; padding: 10px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold; }
         .contact-links a img { width: 20px; height: 20px; }
     </style>
-<meta name="google-site-verification" content="jxJeufSpzxW4Js5NGwUVeXIj_q0i67FUMUnYQIPWko0"/>
+
 
 </head>
 <body>
